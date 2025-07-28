@@ -1,4 +1,0 @@
-<map id="UserInterface::UserInterface" name="UserInterface::UserInterface">
-<area shape="rect" id="node1" title="Constructor. Initializes the UserInterface variables and a ncruses window." alt="" coords="5,5,212,32"/>
-<area shape="rect" id="node2" href="$classFileSystem.html#a5fecbbf97a2728fe1572e07110d81f22" title="Sets the pointed&#45;at state for the file at the specified index." alt="" coords="260,5,445,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="FileSystem::moveSelectedFiles" name="FileSystem::moveSelectedFiles">
-<area shape="rect" id="node1" title="Moves the selected files to the specified directory, de selects all files after that." alt="" coords="5,5,200,47"/>
-<area shape="rect" id="node2" href="$classFileSystem.html#a0bb5cca3b887bbc1089bd61622d7367f" title="Sets the selected state for all files to false." alt="" coords="248,13,453,39"/>
-</map>

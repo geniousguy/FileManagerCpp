@@ -1,9 +1,0 @@
-<map id="UserInterface::printErrorMessage" name="UserInterface::printErrorMessage">
-<area shape="rect" id="node1" title="Prints an error message to the screen at the position specified inside the function." alt="" coords="649,99,828,141"/>
-<area shape="rect" id="node2" href="$classUserInterface.html#a7982a1d631101bdae419446661e686da" title="Concatenates selected files into a new file." alt="" coords="357,5,601,32"/>
-<area shape="rect" id="node3" href="$classUserInterface.html#a1426ffe1533760cacdbdf1713739c00a" title="Expects user input and calls other functions based on it. @retrun False if q is pressed,..." alt="" coords="108,107,309,133"/>
-<area shape="rect" id="node5" href="$classUserInterface.html#a56942e0a295c71f5780b66e8315abe91" title="Handles the create command." alt="" coords="377,107,582,133"/>
-<area shape="rect" id="node6" href="$classUserInterface.html#a259fbadb426dbf97ed7ea1e7b665fcb6" title="Finds all the files that are duplicates to the selected file and changes them to symbolic links to th..." alt="" coords="359,157,599,184"/>
-<area shape="rect" id="node7" href="$classUserInterface.html#ab4552c7c78f2740a1389925fd4f97e1d" title="Selects all the files in m_currentDir that match the regex." alt="" coords="378,208,581,235"/>
-<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,107,60,133"/>
-</map>

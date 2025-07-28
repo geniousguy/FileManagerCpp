@@ -1,4 +1,0 @@
-<map id="FileSystem::removeSelectedFiles" name="FileSystem::removeSelectedFiles">
-<area shape="rect" id="node1" title="Removes the selected files, de selects all files after that." alt="" coords="5,5,213,47"/>
-<area shape="rect" id="node2" href="$classFileSystem.html#a0bb5cca3b887bbc1089bd61622d7367f" title="Sets the selected state for all files to false." alt="" coords="261,13,467,39"/>
-</map>

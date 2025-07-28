@@ -1,6 +1,0 @@
-<map id="File" name="File">
-<area shape="rect" id="node1" title="Parent class for multiple file types." alt="" coords="249,5,394,259"/>
-<area shape="rect" id="node2" href="$classDirectory.html" title="Class representing a directory, derived from the File class." alt="" coords="5,307,200,545"/>
-<area shape="rect" id="node3" href="$classRegularFile.html" title="Class representing a regular file, derived from the File class." alt="" coords="224,307,419,545"/>
-<area shape="rect" id="node4" href="$classSymbolicLink.html" title="Class representing a symbolic link, derived from the File class." alt="" coords="443,307,637,545"/>
-</map>

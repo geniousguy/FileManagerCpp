@@ -1,9 +1,0 @@
-<map id="SmallWindow::printMessage" name="SmallWindow::printMessage">
-<area shape="rect" id="node1" title="Prints a message on the window." alt="" coords="908,56,1115,83"/>
-<area shape="rect" id="node2" href="$classSmallWindow.html#a9e4323e9a0ef3c9026a574680861b0be" title="Gets the destination directory from the user." alt="" coords="645,49,860,90"/>
-<area shape="rect" id="node3" href="$classUserInterface.html#ac55e7bdecc218b4af608acac07b47b02" title="Handles the copy command." alt="" coords="380,5,575,32"/>
-<area shape="rect" id="node6" href="$classUserInterface.html#a259fbadb426dbf97ed7ea1e7b665fcb6" title="Finds all the files that are duplicates to the selected file and changes them to symbolic links to th..." alt="" coords="357,56,597,83"/>
-<area shape="rect" id="node7" href="$classUserInterface.html#a9b1b3e200998fedfa72d32e08dbd51af" title="Handles the move command." alt="" coords="378,107,577,133"/>
-<area shape="rect" id="node4" href="$classUserInterface.html#a1426ffe1533760cacdbdf1713739c00a" title="Expects user input and calls other functions based on it. @retrun False if q is pressed,..." alt="" coords="108,56,309,83"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,60,83"/>
-</map>

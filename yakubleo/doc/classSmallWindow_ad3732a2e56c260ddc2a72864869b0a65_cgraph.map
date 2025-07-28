@@ -1,5 +1,0 @@
-<map id="SmallWindow::input" name="SmallWindow::input">
-<area shape="rect" id="node1" title="Reads input from the window of max 1000 characters." alt="" coords="5,35,156,61"/>
-<area shape="rect" id="node2" href="$classSmallWindow.html#a0c9a6cd8a82199a13406dd3cfe4aea9e" title="Processes the input from the user." alt="" coords="204,5,405,32"/>
-<area shape="rect" id="node3" href="$classSmallWindow.html#a92764a53952b73ee2c549b6ee65d4872" title="Strips the trailing spaces from the input string." alt="" coords="207,57,402,98"/>
-</map>

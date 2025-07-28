@@ -1,4 +1,0 @@
-<map id="FileSystem::FileSystem" name="FileSystem::FileSystem">
-<area shape="rect" id="node1" title="Constructs a FileSystem object with the given directory path." alt="" coords="5,5,180,32"/>
-<area shape="rect" id="node2" href="$classFileSystem.html#a016ec51df1d853dbfd6e7ffc2d5a8126" title="Loads the files from the specified directory." alt="" coords="228,5,388,32"/>
-</map>

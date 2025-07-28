@@ -1,8 +1,0 @@
-<map id="UserInterface::open" name="UserInterface::open">
-<area shape="rect" id="node1" title="Opens the selected file or directory." alt="" coords="5,64,156,91"/>
-<area shape="rect" id="node2" href="$classUserInterface.html#a795f9025658d7b9a8d35e0dffa653967" title="Reprints the screen with the current directory and the cursour pointing at the selected file." alt="" coords="204,57,412,98"/>
-<area shape="rect" id="node3" href="$classFileSystem.html#a016ec51df1d853dbfd6e7ffc2d5a8126" title="Loads the files from the specified directory." alt="" coords="486,5,646,32"/>
-<area shape="rect" id="node4" href="$classUserInterface.html#ab8cf14c58af86e9192e43c1a994d9ed1" title="Clears the screen and file system representation." alt="" coords="460,57,672,98"/>
-<area shape="rect" id="node6" href="$classFileSystem.html#a5fecbbf97a2728fe1572e07110d81f22" title="Sets the pointed&#45;at state for the file at the specified index." alt="" coords="473,123,659,149"/>
-<area shape="rect" id="node5" href="$classFileSystem.html#a924e825ed21a85add386888c5bb971a4" title="Clears the file system by removing all files." alt="" coords="720,64,927,91"/>
-</map>

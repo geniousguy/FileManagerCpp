@@ -1,6 +1,0 @@
-<map id="FileSystem::moveSelectedFiles" name="FileSystem::moveSelectedFiles">
-<area shape="rect" id="node1" title="Moves the selected files to the specified directory, de selects all files after that." alt="" coords="604,5,799,47"/>
-<area shape="rect" id="node2" href="$classUserInterface.html#a9b1b3e200998fedfa72d32e08dbd51af" title="Handles the move command." alt="" coords="357,13,556,39"/>
-<area shape="rect" id="node3" href="$classUserInterface.html#a1426ffe1533760cacdbdf1713739c00a" title="Expects user input and calls other functions based on it. @retrun False if q is pressed,..." alt="" coords="108,13,309,39"/>
-<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,13,60,39"/>
-</map>
