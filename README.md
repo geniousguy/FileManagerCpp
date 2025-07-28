@@ -1,5 +1,5 @@
 # FileManagerCpp
-A linux ubuntu app used for navigating the file system.
+A linux ubuntu app used for navigating the file system. You will need a c++ compiler and makefile tools installed to compile and run the program.
 
 ## How to run:
   - the app is made on linux ubuntu for linux
