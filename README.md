@@ -9,16 +9,15 @@ A linux ubuntu app used for navigating the file system.
   - write  **./yakubleo**
 
 ## How to use the application:
-  - arrow key up: move cursor up
-  - arrow key down: move cursor down
-  
-  - a: create
-  - p: deduplicate
-  - m: move
-  - r: regular expression
-  - c: copy
-  - d: delete
-  - o: concatenate
-  - t: find by text
-  - u: move up a directory
-  - ENTER: open a directory
+  - **arrow key up:** move cursor up
+  - **arrow key down:** move cursor down
+  - **a:** create
+  - **p:** deduplicate
+  - **m:** move
+  - **r:** regular expression
+  - **c:** copy
+  - **d:** delete
+  - **o:** concatenate
+  - **t:** find by text
+  - **u:** move up a directory
+  - **ENTER:** open a directory
