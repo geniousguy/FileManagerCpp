@@ -21,3 +21,5 @@ A linux ubuntu app used for navigating the file system. You will need a c++ comp
   - **t:** find by text
   - **u:** move up a directory
   - **ENTER:** open a directory
+    
+![My cool logo](./Screenshot 2025-07-28 at 12.22.39.png)
