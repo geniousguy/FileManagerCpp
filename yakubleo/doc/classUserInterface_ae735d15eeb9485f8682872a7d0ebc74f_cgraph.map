@@ -1,0 +1,10 @@
+<map id="UserInterface::handleRemove" name="UserInterface::handleRemove">
+<area shape="rect" id="node1" title="Handles the remove command." alt="" coords="5,120,221,147"/>
+<area shape="rect" id="node2" href="$classUserInterface.html#a795f9025658d7b9a8d35e0dffa653967" title="Reprints the screen with the current directory and the cursour pointing at the selected file." alt="" coords="269,69,477,110"/>
+<area shape="rect" id="node7" href="$classFileSystem.html#abf0b0338c56a8273aacf1ab856eaf72a" title="Removes the selected files, de selects all files after that." alt="" coords="269,145,477,186"/>
+<area shape="rect" id="node3" href="$classFileSystem.html#a016ec51df1d853dbfd6e7ffc2d5a8126" title="Loads the files from the specified directory." alt="" coords="551,5,711,32"/>
+<area shape="rect" id="node4" href="$classUserInterface.html#ab8cf14c58af86e9192e43c1a994d9ed1" title="Clears the screen and file system representation." alt="" coords="525,57,737,98"/>
+<area shape="rect" id="node6" href="$classFileSystem.html#a5fecbbf97a2728fe1572e07110d81f22" title="Sets the pointed&#45;at state for the file at the specified index." alt="" coords="539,123,724,149"/>
+<area shape="rect" id="node5" href="$classFileSystem.html#a924e825ed21a85add386888c5bb971a4" title="Clears the file system by removing all files." alt="" coords="785,64,992,91"/>
+<area shape="rect" id="node8" href="$classFileSystem.html#a0bb5cca3b887bbc1089bd61622d7367f" title="Sets the selected state for all files to false." alt="" coords="529,173,734,200"/>
+</map>

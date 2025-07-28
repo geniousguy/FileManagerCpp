@@ -1,0 +1,6 @@
+<map id="UserInterface::moveArrowKey" name="UserInterface::moveArrowKey">
+<area shape="rect" id="node1" title="Moves the arrow key in the specified direction." alt="" coords="5,64,223,91"/>
+<area shape="rect" id="node2" href="$classFileSystem.html#ab673f6e8ee02b920ddaab84e16208891" title="Clears the pointed&#45;at state for the file at the specified index." alt="" coords="283,5,448,32"/>
+<area shape="rect" id="node3" href="$classFileSystem.html#ac48a665d8a8b231053d7b4ad3ae436c2" title="Returns the number of files in the current directory as an integer." alt="" coords="271,57,460,98"/>
+<area shape="rect" id="node4" href="$classFileSystem.html#a5fecbbf97a2728fe1572e07110d81f22" title="Sets the pointed&#45;at state for the file at the specified index." alt="" coords="273,123,458,149"/>
+</map>

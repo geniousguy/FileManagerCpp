@@ -1,0 +1,4 @@
+<map id="UserInterface" name="UserInterface">
+<area shape="rect" id="node1" title="Class representing the user interface for file navigation." alt="" coords="5,292,207,633"/>
+<area shape="rect" id="node2" href="$classFileSystem.html" title="Represents a file system containing directories and files." alt="" coords="9,5,203,229"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="UserInterface::removeScreenLeftovers" name="UserInterface::removeScreenLeftovers">
+<area shape="rect" id="node1" title="Clears the screen and file system representation." alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$classFileSystem.html#a924e825ed21a85add386888c5bb971a4" title="Clears the file system by removing all files." alt="" coords="265,13,472,39"/>
+</map>

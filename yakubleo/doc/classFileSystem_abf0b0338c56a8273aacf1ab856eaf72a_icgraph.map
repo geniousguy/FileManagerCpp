@@ -1,0 +1,6 @@
+<map id="FileSystem::removeSelectedFiles" name="FileSystem::removeSelectedFiles">
+<area shape="rect" id="node1" title="Removes the selected files, de selects all files after that." alt="" coords="621,5,829,47"/>
+<area shape="rect" id="node2" href="$classUserInterface.html#ae735d15eeb9485f8682872a7d0ebc74f" title="Handles the remove command." alt="" coords="357,13,573,39"/>
+<area shape="rect" id="node3" href="$classUserInterface.html#a1426ffe1533760cacdbdf1713739c00a" title="Expects user input and calls other functions based on it. @retrun False if q is pressed,..." alt="" coords="108,13,309,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,13,60,39"/>
+</map>

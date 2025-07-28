@@ -1,0 +1,10 @@
+<map id="UserInterface::handleCopy" name="UserInterface::handleCopy">
+<area shape="rect" id="node1" title="Handles the copy command." alt="" coords="5,46,200,73"/>
+<area shape="rect" id="node2" href="$classFileSystem.html#a04a53f91b70220ebc9b8027def5042ab" title="Copies the selected files to the specified directory, de selects all files after that." alt="" coords="261,5,450,47"/>
+<area shape="rect" id="node4" href="$classSmallWindow.html#a9e4323e9a0ef3c9026a574680861b0be" title="Gets the destination directory from the user." alt="" coords="248,71,463,112"/>
+<area shape="rect" id="node3" href="$classFileSystem.html#a0bb5cca3b887bbc1089bd61622d7367f" title="Sets the selected state for all files to false." alt="" coords="511,13,717,39"/>
+<area shape="rect" id="node5" href="$classSmallWindow.html#ad3732a2e56c260ddc2a72864869b0a65" title="Reads input from the window of max 1000 characters." alt="" coords="539,70,689,97"/>
+<area shape="rect" id="node8" href="$classSmallWindow.html#a105b9bd5a96eac798d1d7fb639dd7be2" title="Prints a message on the window." alt="" coords="511,121,717,147"/>
+<area shape="rect" id="node6" href="$classSmallWindow.html#a0c9a6cd8a82199a13406dd3cfe4aea9e" title="Processes the input from the user." alt="" coords="765,41,967,67"/>
+<area shape="rect" id="node7" href="$classSmallWindow.html#a92764a53952b73ee2c549b6ee65d4872" title="Strips the trailing spaces from the input string." alt="" coords="769,92,963,133"/>
+</map>

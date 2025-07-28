@@ -1,0 +1,4 @@
+<map id="UserInterface::print" name="UserInterface::print">
+<area shape="rect" id="node1" title="Prints the current directory and the whole path to the directory we are currently in." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$classFileSystem.html#aa2db06dd0d01a0633af3f5fa780e28cd" title="Prints the files in the file system." alt="" coords="201,5,333,32"/>
+</map>

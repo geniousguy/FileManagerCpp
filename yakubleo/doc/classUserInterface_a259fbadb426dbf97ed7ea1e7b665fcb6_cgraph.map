@@ -1,0 +1,18 @@
+<map id="UserInterface::handleDeduplicate" name="UserInterface::handleDeduplicate">
+<area shape="rect" id="node1" title="Finds all the files that are duplicates to the selected file and changes them to symbolic links to th..." alt="" coords="5,265,245,291"/>
+<area shape="rect" id="node2" href="$classFileSystem.html#a84d63a237a2e006ca07c1a3d8bb9602c" title=" " alt="" coords="293,159,528,200"/>
+<area shape="rect" id="node6" href="$classFileSystem.html#a14bf73f259e813d919495fb3dc8b0f49" title=" " alt="" coords="293,224,528,265"/>
+<area shape="rect" id="node7" href="$classSmallWindow.html#a9e4323e9a0ef3c9026a574680861b0be" title="Gets the destination directory from the user." alt="" coords="303,355,518,396"/>
+<area shape="rect" id="node12" href="$classUserInterface.html#ad645acdc26ebf5490c52a14219363cb7" title="Prints an error message to the screen at the position specified inside the function." alt="" coords="321,289,500,331"/>
+<area shape="rect" id="node13" href="$classUserInterface.html#a795f9025658d7b9a8d35e0dffa653967" title="Reprints the screen with the current directory and the cursour pointing at the selected file." alt="" coords="307,79,515,120"/>
+<area shape="rect" id="node16" href="$classFileSystem.html#a344298ea02a08cdeefdc274d0579530f" title="Returns the number of selected files as an integer." alt="" coords="317,420,504,461"/>
+<area shape="rect" id="node3" href="$classFileSystem.html#a924e825ed21a85add386888c5bb971a4" title="Clears the file system by removing all files." alt="" coords="836,93,1043,119"/>
+<area shape="rect" id="node4" href="$classFileSystem.html#a6d44907fa4fbf6fcdace23879898691c" title=" " alt="" coords="581,224,783,265"/>
+<area shape="rect" id="node5" href="$classFileSystem.html#a016ec51df1d853dbfd6e7ffc2d5a8126" title="Loads the files from the specified directory." alt="" coords="602,122,762,149"/>
+<area shape="rect" id="node8" href="$classSmallWindow.html#ad3732a2e56c260ddc2a72864869b0a65" title="Reads input from the window of max 1000 characters." alt="" coords="607,387,757,414"/>
+<area shape="rect" id="node11" href="$classSmallWindow.html#a105b9bd5a96eac798d1d7fb639dd7be2" title="Prints a message on the window." alt="" coords="579,337,785,363"/>
+<area shape="rect" id="node9" href="$classSmallWindow.html#a0c9a6cd8a82199a13406dd3cfe4aea9e" title="Processes the input from the user." alt="" coords="839,417,1040,443"/>
+<area shape="rect" id="node10" href="$classSmallWindow.html#a92764a53952b73ee2c549b6ee65d4872" title="Strips the trailing spaces from the input string." alt="" coords="842,351,1037,392"/>
+<area shape="rect" id="node14" href="$classUserInterface.html#ab8cf14c58af86e9192e43c1a994d9ed1" title="Clears the screen and file system representation." alt="" coords="576,5,788,47"/>
+<area shape="rect" id="node15" href="$classFileSystem.html#a5fecbbf97a2728fe1572e07110d81f22" title="Sets the pointed&#45;at state for the file at the specified index." alt="" coords="589,71,775,98"/>
+</map>

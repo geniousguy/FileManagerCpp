@@ -1,0 +1,15 @@
+<map id="UserInterface::handleMove" name="UserInterface::handleMove">
+<area shape="rect" id="node1" title="Handles the move command." alt="" coords="5,147,204,173"/>
+<area shape="rect" id="node2" href="$classSmallWindow.html#a9e4323e9a0ef3c9026a574680861b0be" title="Gets the destination directory from the user." alt="" coords="252,74,467,115"/>
+<area shape="rect" id="node7" href="$classFileSystem.html#a1012d131ca6e96406940ac758d5665d9" title="Moves the selected files to the specified directory, de selects all files after that." alt="" coords="262,139,457,181"/>
+<area shape="rect" id="node9" href="$classUserInterface.html#a795f9025658d7b9a8d35e0dffa653967" title="Reprints the screen with the current directory and the cursour pointing at the selected file." alt="" coords="255,219,463,261"/>
+<area shape="rect" id="node3" href="$classSmallWindow.html#ad3732a2e56c260ddc2a72864869b0a65" title="Reads input from the window of max 1000 characters." alt="" coords="545,35,696,61"/>
+<area shape="rect" id="node6" href="$classSmallWindow.html#a105b9bd5a96eac798d1d7fb639dd7be2" title="Prints a message on the window." alt="" coords="517,85,724,112"/>
+<area shape="rect" id="node4" href="$classSmallWindow.html#a0c9a6cd8a82199a13406dd3cfe4aea9e" title="Processes the input from the user." alt="" coords="777,5,979,32"/>
+<area shape="rect" id="node5" href="$classSmallWindow.html#a92764a53952b73ee2c549b6ee65d4872" title="Strips the trailing spaces from the input string." alt="" coords="781,57,975,98"/>
+<area shape="rect" id="node8" href="$classFileSystem.html#a0bb5cca3b887bbc1089bd61622d7367f" title="Sets the selected state for all files to false." alt="" coords="518,143,723,169"/>
+<area shape="rect" id="node10" href="$classFileSystem.html#a016ec51df1d853dbfd6e7ffc2d5a8126" title="Loads the files from the specified directory." alt="" coords="541,193,701,220"/>
+<area shape="rect" id="node11" href="$classUserInterface.html#ab8cf14c58af86e9192e43c1a994d9ed1" title="Clears the screen and file system representation." alt="" coords="515,245,727,286"/>
+<area shape="rect" id="node13" href="$classFileSystem.html#a5fecbbf97a2728fe1572e07110d81f22" title="Sets the pointed&#45;at state for the file at the specified index." alt="" coords="528,311,713,337"/>
+<area shape="rect" id="node12" href="$classFileSystem.html#a924e825ed21a85add386888c5bb971a4" title="Clears the file system by removing all files." alt="" coords="775,252,981,279"/>
+</map>

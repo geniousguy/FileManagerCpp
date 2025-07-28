@@ -1,0 +1,5 @@
+<map id="RegularFile::isEqualTo" name="RegularFile::isEqualTo">
+<area shape="rect" id="node1" title="Compares the regular file to another file." alt="" coords="5,31,169,57"/>
+<area shape="rect" id="node2" href="$classFile.html#abfbb51177c1bb19fabe2f2f94dd9786e" title="Gets the contents of the file." alt="" coords="243,5,375,32"/>
+<area shape="rect" id="node3" href="$classRegularFile.html#ae0e8aab13bc3274ff27c3dec0846b93b" title="Gets the contents of the regular file." alt="" coords="217,56,400,83"/>
+</map>

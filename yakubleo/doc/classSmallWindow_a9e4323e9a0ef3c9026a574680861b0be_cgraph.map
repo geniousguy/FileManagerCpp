@@ -1,0 +1,7 @@
+<map id="SmallWindow::getDestinationDirectory" name="SmallWindow::getDestinationDirectory">
+<area shape="rect" id="node1" title="Gets the destination directory from the user." alt="" coords="5,53,220,94"/>
+<area shape="rect" id="node2" href="$classSmallWindow.html#ad3732a2e56c260ddc2a72864869b0a65" title="Reads input from the window of max 1000 characters." alt="" coords="296,35,447,61"/>
+<area shape="rect" id="node5" href="$classSmallWindow.html#a105b9bd5a96eac798d1d7fb639dd7be2" title="Prints a message on the window." alt="" coords="268,85,475,112"/>
+<area shape="rect" id="node3" href="$classSmallWindow.html#a0c9a6cd8a82199a13406dd3cfe4aea9e" title="Processes the input from the user." alt="" coords="523,5,724,32"/>
+<area shape="rect" id="node4" href="$classSmallWindow.html#a92764a53952b73ee2c549b6ee65d4872" title="Strips the trailing spaces from the input string." alt="" coords="526,57,721,98"/>
+</map>

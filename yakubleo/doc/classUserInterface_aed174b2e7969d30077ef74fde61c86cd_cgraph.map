@@ -1,0 +1,4 @@
+<map id="UserInterface::selectOrUnselectFile" name="UserInterface::selectOrUnselectFile">
+<area shape="rect" id="node1" title="Selects or unselects file at m_selectedRow." alt="" coords="5,5,257,32"/>
+<area shape="rect" id="node2" href="$classFileSystem.html#a61bc5e2443f5847ec71d7e54c03e3e2b" title="Sets the selected state for the file at the specified index." alt="" coords="305,5,497,32"/>
+</map>

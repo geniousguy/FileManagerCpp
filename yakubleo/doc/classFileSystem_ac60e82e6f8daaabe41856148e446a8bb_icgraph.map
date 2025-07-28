@@ -1,0 +1,6 @@
+<map id="FileSystem::selectOnText" name="FileSystem::selectOnText">
+<area shape="rect" id="node1" title="Selects the files with the specified text in its contents." alt="" coords="595,13,781,39"/>
+<area shape="rect" id="node2" href="$classUserInterface.html#a7e89bfa50c1617005f0f416a0a3d2b49" title="Selects all the files in m_currentDir that contain the text inputed by user." alt="" coords="357,5,547,47"/>
+<area shape="rect" id="node3" href="$classUserInterface.html#a1426ffe1533760cacdbdf1713739c00a" title="Expects user input and calls other functions based on it. @retrun False if q is pressed,..." alt="" coords="108,13,309,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,13,60,39"/>
+</map>

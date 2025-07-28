@@ -1,0 +1,6 @@
+<map id="FileSystem::deduplicateSelectedFileIn" name="FileSystem::deduplicateSelectedFileIn">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,240,98"/>
+<area shape="rect" id="node2" href="$classFileSystem.html#a924e825ed21a85add386888c5bb971a4" title="Clears the file system by removing all files." alt="" coords="288,5,495,32"/>
+<area shape="rect" id="node3" href="$classFileSystem.html#a6d44907fa4fbf6fcdace23879898691c" title=" " alt="" coords="290,57,493,98"/>
+<area shape="rect" id="node4" href="$classFileSystem.html#a016ec51df1d853dbfd6e7ffc2d5a8126" title="Loads the files from the specified directory." alt="" coords="311,123,471,149"/>
+</map>
